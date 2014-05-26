@@ -84,6 +84,6 @@ and 68 columns. Column 1 is labeled "subject", column 2 - "activity". The remain
 [64] "frequencybodybodyaccjerkmagstd"  
 [65] "frequencybodybodygyromagmean"     
 [66] "frequencybodybodygyromagstd"     
-[67] "frequencybodybodygyrojerkmagmean" 
+[67] "frequencybodybodygyrojerkmagmean"  
 [68] "frequencybodybodygyrojerkmagstd"
 
